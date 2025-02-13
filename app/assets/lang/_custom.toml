@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Impero Launcher v0.0.1"
+
+[ejs.landing]
+mediaGitHubURL = "#"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO WESTEROSCRAFT"
+welcomeDescription = "Sei a pochi passi da Impero Launcher"
+welcomeDescCTA = "Copyright © 2025 IMPERO LAUNCHER"
